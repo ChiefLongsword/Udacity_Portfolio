@@ -1,0 +1,25 @@
+* {
+    font-family: 'Verdana', sans-serif;
+    
+}
+.text-title {
+    color: #666666;
+    font-size: 48px;
+}
+.text-subtitle {
+    color: #f07c17;
+    font-size: 25px;
+}
+.para{
+    line-height: 200%;
+    font-size: 16px;
+}
+.boxborder {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+    margin-top: 35px;
+    padding: 10px;
+    line-height: 200%;
+    font-size: 16px;
+}
